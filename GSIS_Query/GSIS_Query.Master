@@ -1,0 +1,78 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="GSIS_Query.Master.vb"
+    Inherits="GSIS_Query.Site1" %>
+
+<system.web> 
+<identity impersonate="true"/> 
+</system.web>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Allcard Technologies Corp. - UMID Inquiry</title>
+    <meta http-equiv="Page-Enter" content="revealtrans(duration=0.0),transition=8" />
+    <meta http-equiv="Page-Exit" content="revealtrans(duration=0.0),transition=8" />
+    <link href="BPStylesLogin.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <script type="text/javascript">
+        function clipper() {
+            var data = document.getElementById("Data").value;
+            window.clipboardData.setData("Text", data);
+        }
+    </script>
+
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+        .style2
+        {
+            height: 23px;
+        }
+    </style>
+</head>
+<body class="background">
+    <form id="form1" runat="server">
+    <div>
+        <table class="style1">
+            <tr>
+                <td align="center" class="header" colspan="3">
+                    <asp:Label ID="Label1" runat="server" Text="UMID Card Production System [GSIS]" Font-Bold="True"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td width="50">
+                    &nbsp;
+                </td>
+                <td>
+                    <div id="menu">
+                        <ul>
+                            <li><a href="Home.aspx" title="Home"><span>Home</span></a></li>
+                            <li><a href="Query.aspx" title="Queries"><span>Queries</span></a></li>
+                            <li><a href="Query_GSU.aspx" title="GSU_Query"><span>GSU Query</span></a></li>
+                            <li><a href="Report.aspx" title="Reports"><span>Reports</span></a></li>
+                            <li><a href="CPS_Status.aspx" title="CPS_Status"><span>CPS Status</span></a></li>
+                            <li><a href="Upload.aspx" title="Upload_Data"><span>Upload Data</span></a></li>
+                            <li><a href="Login.aspx" title="Logout"><span>Logout</span></a></li>
+                        </ul>
+                    </div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td width="50">
+                    <br />
+                    <br />
+                    <br />
+                </td>
+            </tr>
+            <tr>
+                <td align="center" colspan="3">
+                    <asp:Label ID="Label2" runat="server" Text="Copyright &copy Allcard Technologies Corp 2010" Font-Bold="True"></asp:Label>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

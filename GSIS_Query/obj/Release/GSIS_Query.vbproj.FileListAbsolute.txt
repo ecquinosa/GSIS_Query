@@ -1,0 +1,27 @@
+D:\GSIS_Query\GSIS_Query\bin\GSIS_Query.dll
+D:\GSIS_Query\GSIS_Query\bin\GSIS_Query.pdb
+D:\GSIS_Query\GSIS_Query\bin\GSIS_Query.xml
+D:\GSIS_Query\GSIS_Query\obj\Release\ResolveAssemblyReference.cache
+D:\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.Resources.resources
+D:\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.vbproj.GenerateResource.Cache
+D:\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.dll
+D:\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.xml
+D:\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.pdb
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\GSIS_Query.dll
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\GSIS_Query.pdb
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\GSIS_Query.xml
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.Resources.resources
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.vbproj.GenerateResource.Cache
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.dll
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.xml
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.pdb
+D:\_Current\Source\GSIS_Query\GSIS_Query\bin\GSIS_Query.dll
+D:\_Current\Source\GSIS_Query\GSIS_Query\bin\GSIS_Query.pdb
+D:\_Current\Source\GSIS_Query\GSIS_Query\bin\GSIS_Query.xml
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Release\ResolveAssemblyReference.cache
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.Resources.resources
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.vbproj.GenerateResource.Cache
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.dll
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.xml
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Release\GSIS_Query.pdb

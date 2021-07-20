@@ -1,0 +1,44 @@
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\GSIS_Query.dll
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\GSIS_Query.pdb
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\GSIS_Query.xml
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.Resources.resources
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.vbproj.GenerateResource.Cache
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.dll
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.xml
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.pdb
+D:\GSIS_Query\GSIS_Query\bin\GSIS_Query.dll
+D:\GSIS_Query\GSIS_Query\bin\GSIS_Query.pdb
+D:\GSIS_Query\GSIS_Query\bin\GSIS_Query.xml
+D:\GSIS_Query\GSIS_Query\obj\Debug\ResolveAssemblyReference.cache
+D:\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.Resources.resources
+D:\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.vbproj.GenerateResource.Cache
+D:\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.dll
+D:\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.xml
+D:\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.pdb
+D:\_Current\Source\GSIS_Query\GSIS_Query\bin\GSIS_Query.dll
+D:\_Current\Source\GSIS_Query\GSIS_Query\bin\GSIS_Query.pdb
+D:\_Current\Source\GSIS_Query\GSIS_Query\bin\GSIS_Query.xml
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Debug\ResolveAssemblyReference.cache
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.Resources.resources
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.vbproj.GenerateResource.Cache
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.dll
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.xml
+D:\_Current\Source\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.pdb
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\Reports\DataPerBatch.rpt
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\Reports\DataPerGSU.rpt
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\Reports\DataPerBatch.vb
+D:\Documents\Projects\VB 2008\GSIS_Query\GSIS_Query\bin\Reports\DataPerGSU.vb
+E:\Projects\GSIS_Query\GSIS_Query\bin\Reports\DataPerBatch.rpt
+E:\Projects\GSIS_Query\GSIS_Query\bin\Reports\DataPerGSU.rpt
+E:\Projects\GSIS_Query\GSIS_Query\bin\Reports\DataPerBatch.vb
+E:\Projects\GSIS_Query\GSIS_Query\bin\Reports\DataPerGSU.vb
+E:\Projects\GSIS_Query\GSIS_Query\bin\GSIS_Query.dll
+E:\Projects\GSIS_Query\GSIS_Query\bin\GSIS_Query.pdb
+E:\Projects\GSIS_Query\GSIS_Query\bin\GSIS_Query.xml
+E:\Projects\GSIS_Query\GSIS_Query\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.Resources.resources
+E:\Projects\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.vbproj.GenerateResource.Cache
+E:\Projects\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.dll
+E:\Projects\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.xml
+E:\Projects\GSIS_Query\GSIS_Query\obj\Debug\GSIS_Query.pdb
